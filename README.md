@@ -1,1 +1,1 @@
-vue router功能演示
+vue router + vuex功能演示
